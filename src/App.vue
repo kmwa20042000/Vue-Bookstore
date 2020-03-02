@@ -29,8 +29,8 @@
 </template>
 
 <script>
-  import imagecard from './Imagecard'
-  import appheader from './app-header'
+  import imagecard from './component/Imagecard'
+  import appheader from './component/app-header'
   import LightBox from 'vue-image-lightbox'
   export default {
 

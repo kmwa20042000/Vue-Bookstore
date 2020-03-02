@@ -1,11 +1,12 @@
 .DS_Store
 node_modules/
-dist/
+# dist/
 npm-debug.log
 yarn-error.log
-
+vue.config.js
 # Editor directories and files
 .idea
+.gitignore
 *.suo
 *.ntvs*
 *.njsproj
